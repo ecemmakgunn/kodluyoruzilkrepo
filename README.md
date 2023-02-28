@@ -9,3 +9,4 @@ Pull reguestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ## License
 MIT
   ![Proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+[Patikadev adresim] (https://app.patika.dev/ecemmakgunn)
